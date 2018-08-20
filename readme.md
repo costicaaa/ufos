@@ -1,6 +1,6 @@
 # Proiect Grafica pe calculator : Unidentified flying object ( UFO ) 
 #### Costache Costin | Grupa 253
-
+![alt text](https://raw.githubusercontent.com/costicaaa/ufos/master/Capture.PNG)
 ##
 ## Descrierea proiectului
 Pentru acest proiect, am ales sa reprezint OZN - uri, deoarece se pot ilustra usor cunostiintele acumulate, chiar daca este un proiect relativ simplu. 
